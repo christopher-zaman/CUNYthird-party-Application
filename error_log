@@ -1,0 +1,46 @@
+[21-Jan-2018 18:11:10 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[29-Jan-2018 20:15:50 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[20-Mar-2018 20:03:25 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[20-Mar-2018 20:03:28 UTC] PHP Notice:  Undefined variable: querytwo in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 16
+[20-Mar-2018 20:03:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 68
+[20-Mar-2018 20:03:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 71
+[20-Mar-2018 20:03:49 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[20-Mar-2018 20:03:53 UTC] PHP Notice:  Undefined variable: querytwo in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 16
+[20-Mar-2018 20:04:07 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[20-Mar-2018 20:04:12 UTC] PHP Notice:  Undefined variable: querytwo in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 16
+[20-Mar-2018 20:05:18 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[20-Mar-2018 20:05:22 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[14-May-2018 19:12:49 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[17-May-2018 19:35:12 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[17-May-2018 19:35:37 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[17-May-2018 20:47:31 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[17-May-2018 20:48:11 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[17-May-2018 20:51:47 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[03-Jun-2018 00:27:35 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[03-Jun-2018 22:30:20 UTC] PHP Notice:  Undefined index: username in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 105
+[03-Jun-2018 22:30:20 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[03-Nov-2018 18:27:22 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[03-Nov-2018 23:12:29 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[03-Nov-2018 23:13:03 UTC] PHP Notice:  Undefined variable: querytwo in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 16
+[03-Nov-2018 23:21:00 UTC] PHP Notice:  Undefined variable: querytwo in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 16
+[03-Nov-2018 23:22:34 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[03-Nov-2018 23:23:29 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[03-Nov-2018 23:25:09 UTC] PHP Notice:  Undefined variable: querytwo in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 16
+[03-Nov-2018 23:27:25 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[04-Nov-2018 19:31:19 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[04-Nov-2018 19:32:04 UTC] PHP Notice:  Undefined variable: querytwo in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 16
+[04-Nov-2018 19:33:29 UTC] PHP Notice:  Undefined variable: querytwo in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 16
+[04-Nov-2018 19:34:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 68
+[04-Nov-2018 19:34:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 71
+[04-Nov-2018 19:34:34 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[04-Nov-2018 19:35:09 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[04-Nov-2018 19:50:26 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[04-Nov-2018 23:13:05 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[04-Nov-2018 23:14:30 UTC] PHP Notice:  Undefined variable: querytwo in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 16
+[04-Nov-2018 23:14:30 UTC] PHP Notice:  Undefined variable: querytwo in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 16
+[04-Nov-2018 23:23:06 UTC] PHP Notice:  Undefined index: username in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 105
+[04-Nov-2018 23:23:06 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[04-Nov-2018 23:23:12 UTC] PHP Notice:  Undefined index: username in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 105
+[04-Nov-2018 23:23:12 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110
+[04-Nov-2018 23:24:03 UTC] PHP Notice:  Undefined index: formmessage in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/login.php on line 87
+[04-Nov-2018 23:24:03 UTC] PHP Notice:  Undefined variable: query in /home/czaman9/public_html/multi-purpose-web-application-for-cuny-students/home.php on line 110

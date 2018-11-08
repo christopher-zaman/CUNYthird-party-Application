@@ -1,0 +1,474 @@
+/*html{
+  background: url(index-bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+body{
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Poiret One', cursive;
+  
+}
+.my-nav-bar{
+    background-color: #2a3e66;
+    height: 42px;
+    margin-top: 0;
+    text-align: center;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+}
+li{
+  display: inline;
+
+}
+li a{
+  text-decoration:none;
+  color: #fff;
+}
+li a:hover{
+  color: #FF8500;
+}
+.block-one{
+  background: url(images/index-bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 600px;
+  
+  border: 1px solid red;
+  margin: -30px 0 -32px;
+}
+.block-two{
+  background: url(images/busy.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 600px;
+  margin-top: -22px;
+  margin-bottom: -32px;
+}
+.block-three{
+  background: url(images/tutor.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 600px;
+  margin: 0 0 -32px;
+}
+.page-message{
+  text-align: center;
+  color: #fff;
+  background: rgba(0, 47, 86, 0.9);
+  margin:auto;
+  font-size: xx-large;
+}
+.main{
+  background: url(images/register-page.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 770px;
+  
+}
+.main-content{
+    margin: auto;
+    width: 70%;
+}
+.block-one-content{
+    border: 1px solid blue;
+    margin: 19px auto auto;
+    width: 70%;
+}
+.block-two-content{
+  border: 1px solid blue;
+    margin: auto;
+    width: 70%;
+}
+.block-three-content{
+  border: 1px solid blue;
+    margin: auto;
+    width: 70%;
+}
+.left-content{
+    border: 1px solid #2a3e66;
+    float: left;
+    width: 50%;
+    margin-top: 10px;
+    background-color: rgba(255, 255, 255, 0.70);
+}
+.header{
+  /*background: url(images/cuny-third-logo.png) no-repeat; */
+  top: 0px;
+  width: 100%;
+  padding: 5px;
+  letter-spacing: 1px;
+  height: 100px;
+  background-color: #2a3e66;
+}
+.logo{
+  height: 85px;
+  float:left;
+}
+.login-p-tag{
+  clear:left;
+  font-size: xx-large;
+
+}
+#or{
+
+}
+#student-name{
+  float:right;
+}
+.banner{
+   width: 100%;
+   height: 100px;   
+   background: rgba(0, 47, 86, 0.7);
+   color: #fff;
+}
+.my-footer{
+   bottom: 0;
+   width: 100%;
+   height: 100px;   
+   background: rgba(0, 47, 86, 0.7);
+   color: #fff;
+ }
+form{
+  /*width: 30%;
+  padding: 30px;
+  margin: 5px auto;
+  background: rgba(0, 0, 0, 0.5);*/
+}
+#main-form{
+    float: right;
+    margin-right: 25px;
+    margin-top: 10px;
+    border: 1px solid #2a3e66;
+    background-color: rgba(255, 255, 255, 0.60);
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-size: xx-large;
+}
+
+.login-page-form{
+    border: 1px solid #2a3e66;
+    background-color: rgba(255, 255, 255, 0.3);
+    float: right;
+    margin-right: 25px;
+    margin-top: 20px;
+}
+.first-feature{
+  border-top: 1px solid #2a3e66;
+}
+.second-feature{
+  border-top: 1px dashed #2a3e66;
+}
+.third-feature{
+  border-top: 1px dashed #2a3e66;
+}
+.first-feautre-icon{
+float: left;
+}
+.second-feautre-icon{
+float: left;
+clear: left;
+}
+.third-feautre-icon{
+float: left;
+clear: left;
+}
+#logout_btn{
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    clear: right;
+    float: right;
+    height: 2em;
+    letter-spacing: 1px;
+    margin-right: 20px;
+    margin-top: -40px;
+    padding: 8px 0 0;
+    text-align: center;
+    width: 6em;
+}
+#logout_btn:hover{
+	background-color: #000;
+	}
+#logout_btn a{
+	color: #fff;
+	text-decoration: none;
+}
+#welcome-msg{
+    color: #fff;
+    float: right;
+    margin-right: 25px;
+    width: 30%;
+}
+.textInput{
+    border: 1px solid #2a3e66;
+    border-radius: 5px;
+    font-family: "poiret one",cursive;
+    font-size: xx-large;
+    padding: 5px;
+}
+.user{
+
+}
+.pass{
+
+}
+.button{
+
+}
+
+/* width: 50%;
+  margin: auto;
+  height: 30px;
+  border: 1px solid #FF0000;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding-top: 10px;
+  text-align: center;*/
+#error_msg{
+    background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+    border: 1px solid #ff0000;
+    color: #fff;
+    height: 40px;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+    width: 40%;
+    letter-spacing: 2px;
+}
+#query_msg{
+    background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+    border: 1px solid #00ff00;
+    clear: both;
+    color: #fff;
+    float: right;
+    height: 30px;
+    margin: 480px 750px auto;
+    padding-top: 10px;
+    position: absolute;
+    text-align: center;
+    width: 25%;
+}
+#sql-image{
+    clear: left;
+    float: left;
+    margin-left: 25px;
+    margin-top: 70px;
+}
+.login_error_msg{
+    background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+    border: 1px solid #ff0000;
+    color: #fff;
+    height: 30px;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+    width: 40%;
+    float:right;
+    letter-spacing: 2px;
+}
+.showWhenIncorrectPw{
+    background-color: rgba(255, 255, 255, 0.6);
+    border: 1px solid #2a3e66;
+    clear: right;
+    float: right;
+    font-family: "Poiret One",cursive;
+    font-size: xx-large;
+    margin: auto;
+    text-align: center;
+    text-decoration:none;
+    color:#2a3e66;;
+    width: 40%;
+    
+}
+#found_msg {
+  width: 50%;
+  margin: 5px auto;
+  height: 30px;
+  border: 1px solid #00FF00;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding-top: 10px;
+  text-align: center;  
+  position: absolute;
+  margin: 450px 320px 0;
+}
+#database-box{
+border: 1px solid #000;
+margin-top: -175px;
+float:right;
+background-color: rgba(0,0,0,.5);
+border: 1px solid #cbcbcb;
+color: #fff;
+text-align: center;
+}
+#new-database-box{
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 1px solid #cbcbcb;
+    color: #fff;
+    text-align: center;
+    float:left;
+    clear:left;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+tr{
+  text-align:center;
+}
+#tutor-box{
+border: 1px solid #000;
+width: 350px;
+margin-top: -163px;
+margin-right: 25px;
+float:right;
+background-color: rgba(0,0,0,.5);
+border: 1px solid #cbcbcb;
+color: #fff;
+text-align: center;
+}
+
+#the-form{
+background:rgba(0, 47, 86, 0.90);
+margin: auto;
+color: #fff;
+
+}
+h1,h2{
+  text-align:center;
+  background-color: rgba(255, 255, 255, 0.7);
+  color: rgba(0, 0, 0, 0.9);
+  margin-top:0;
+
+}
+#main-feature{
+
+}
+
+/*css media quieries iphone*/ 
+@media only screen and (max-width: 375px) {
+	#found_msg {
+		margin: 90px 55px;
+    	width: 70%;
+    	padding-top: 0;
+    	height: 20px;
+	}
+	#sql-image{
+		display:none;
+	}
+	.my-nav-bar{
+		display: none;
+	}
+    #main-form {
+      margin: 10px auto auto;
+    }
+    .textInput{
+      width:86%;
+    }
+    .login-page-form{
+      width:86%;
+      margin-right: 29px;
+      text-align: center;
+    }
+    .user{
+      clear: left;
+      float: left;
+    }
+    .pass{
+      clear: left;
+      float: left;
+    }
+    .button{
+      float: left;
+      width: 100%;
+    }
+    .left-content{
+      width: 100%;
+      margin-top: 10px;
+    }
+    .main-content{
+      margin: auto;
+      width: 85%;
+    }
+    #error_msg{
+    background-color: #000;
+    height: 50px;
+    margin-top: 47px;
+    position: absolute;
+    width: 99%;
+}
+  .showWhenIncorrectPw{
+    height: 50px;
+    width: 99%;
+    
+}
+.block-one-content{
+  width:90%;
+  border:none;
+  margin: 51px auto auto;
+}
+.block-two-content{
+  width:90%;
+  border:none;
+  margin-top: 30px;
+}
+.block-three-content{
+  width:90%;
+  border:none;
+}
+#new-database-box{
+  display:none;
+}
+#tutor-box{
+  display:none;
+}
+#logout_btn{
+    margin-left: 270px;
+    margin-top: 80px;
+    position: absolute;
+}
+#welcome-msg{
+    float: left;
+    margin-top: -15px;
+}
+#main-feature{
+    clear: left;
+    margin-top: 50px;
+}
+}
+
+/*FOR IPAD*/
+@media only screen and (max-width: 768px) {
+#new-database-box{
+display:none;
+}
+}
+
+@media only screen and (min-width: 600px) {
+  .login-page-form{
+      background:none;
+  }
+  .login-p-tag{
+      visibility: hidden;
+      display: none;
+  }
+  #or{
+      visibility: hidden;
+      display: none;
+  }
+}
+
+
+
+
+
+
