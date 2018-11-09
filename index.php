@@ -6,8 +6,6 @@
 
   $db = mysqli_connect("localhost", "zaman29", "pass1234", "StudentRegistrationAuthentication");
 
-
-
 //sign up button
 
   if (isset($_POST['register_btn'])) {
@@ -21,13 +19,12 @@
     $password2 = ($_POST['password2']);
 
 
-
     if ($password == $password2) {
 
-      // create user
+      // create user account
 
-      $password = md5($password); //hash pw b4 storing for security
-
+      $password = md5($password); //hash password before storing for security
+      // SQL Query to enter user sign up data into database 
       $sql = "INSERT INTO users(username, email, password) VALUES('$username', '$email', '$password')";
 
       mysqli_query($db, $sql);
@@ -43,7 +40,6 @@
       // failed
 
       $_SESSION['message'] = "the 2 pw dont match";
-
     }
 
   }
